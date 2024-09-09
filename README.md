@@ -39,7 +39,6 @@ Este projeto é uma implementação de uma tierlist interativa inspirada na ferr
 - **Arrastar e Soltar:** Permite que os usuários movam itens entre diferentes tiers.
 - **Interatividade:** Atualiza o layout em tempo real à medida que os itens são movidos.
 - **Customização:** Pode ser adaptado para diferentes tipos de itens, como séries, jogos, comidas, etc.
-- **Design Responsivo:** Funciona bem em diferentes tamanhos de tela e dispositivos.
 
 ---
 
