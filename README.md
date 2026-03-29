@@ -19,22 +19,22 @@
 
 <details><summary>Sumário</summary>
 
-- [📍 Visão Geral](#-visão-geral)
-- [👾 Funcionalidades](#-funcionalidades)
+- [ Visão Geral](#-visão-geral)
+- [ Funcionalidades](#-funcionalidades)
 - [📂 Estrutura do Repositório](#-estrutura-do-repositório)
-- [🧩 Módulos](#-módulos)
-- [📌 Roteiro do Projeto](#-roteiro-do-projeto)
+- [ Módulos](#-módulos)
+- [ Roteiro do Projeto](#-roteiro-do-projeto)
 
 </details>
 <hr>
 
-## 📍 Visão Geral
+##  Visão Geral
 
 Este projeto é uma implementação de uma tierlist interativa inspirada na ferramenta Tiermaker. A ideia é permitir que usuários arrastem e soltem itens em diferentes tiers, utilizando eventos de drag and drop em JavaScript. Embora o Tiermaker já seja uma plataforma popular, este projeto foi desenvolvido para aplicar e demonstrar o uso de técnicas de arrastar e soltar em um contexto de tierlist.
 
 ---
 
-## 👾 Funcionalidades
+##  Funcionalidades
 
 - **Arrastar e Soltar:** Permite que os usuários movam itens entre diferentes tiers.
 - **Interatividade:** Atualiza o layout em tempo real à medida que os itens são movidos.
@@ -56,7 +56,7 @@ Este projeto é uma implementação de uma tierlist interativa inspirada na ferr
 ```
 ---
 
-## 🧩 Módulos
+## Módulos
 
 <details closed><summary>.</summary>
 
